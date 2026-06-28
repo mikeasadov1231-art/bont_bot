@@ -1,0 +1,7 @@
+python-telegram-bot==20.0
+opencv-python-headless
+Pillow
+pytesseract
+requests
+numpy
+flask
